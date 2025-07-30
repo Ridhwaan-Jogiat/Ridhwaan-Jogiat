@@ -1,11 +1,31 @@
-👨‍💻 Computer Science Student @UniversityOfJohannesburg
+# 👋 Hi, I'm Ridhwaan Jogiath
 
-🌐 Aspiring Software Developer | Tech Enthusiast
+🎓 Computer Science Graduate @ University of Johannesburg  
+💻 Aspiring Software Developer | Tech Enthusiast  
+🌱 Currently learning Django, APIs, and full-stack development  
+📫 Reach me: [Ridhwaan.jogiat@gmail.com](mailto:Ridhwaan.jogiat@gmail.com)  
 
-📚 Learning, Coding, and Exploring the Digital Universe
+---
 
-🔗 Passionate about Open Source & Collaboration
+## 🚀 Projects by Category
 
-📫 Let's connect: [Ridhwaan.jogiat@gmail.com]
+### 🧩 Django Projects
+- 🌤️ [Django Weather App](https://github.com/Ridhwaan-Jogiat/Django-weather-app) – Real-time weather with dynamic backgrounds
+- 🛍️ [Vendify](https://github.com/...) – Vendor management platform (event-based)
+
+### 🐍 Python Projects
+- 🧹 [Data Cleaner](https://github.com/...) – Script to clean and standardize messy data
+- 📊 [Simple Analytics](https://github.com/...) – Excel + Python reporting automation
+
+### 🌐 Web Projects
+- 💡 [Personal Portfolio Website](https://github.com/...) – Static website with HTML/CSS/JS
+
+---
+
+## 🛠️ Tech Stack
+```bash
+Languages: Python, Java, C#
+Frameworks: Django, ASP.NET, Angular
+Tools: Git, VS Code, Docker
 
 
