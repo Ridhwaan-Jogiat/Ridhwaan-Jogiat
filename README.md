@@ -51,7 +51,7 @@ vibe:        chilled, curious, always down to learn something new ⚡
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <!-- ═══════════════════════════════  ARCADE  ═══════════════════════════════ -->
-## 🕹️ Insert coin — watch the snake eat my commits
+## 🕹️ Insert coin, watch the snake eat my commits
 
 <div align="center">
 
