@@ -79,7 +79,8 @@ vibe:        chilled, curious, always down to learn something new ⚡
 
 <br/>
 
-<img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=Ridhwaan-Jogiat&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
+<img height="150" alt="most used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridhwaan-Jogiat&theme=tokyonight" />
+<img height="150" alt="productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ridhwaan-Jogiat&theme=tokyonight&utcOffset=2" />
 
 <br/>
 
