@@ -75,7 +75,7 @@ vibe:        chilled, curious, always down to learn something new ⚡
 
 <br/>
 
-<img alt="streak" src="https://streak-stats.demolab.com?user=Ridhwaan-Jogiat&theme=tokyonight&hide_border=true" />
+<img alt="profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridhwaan-Jogiat&theme=tokyonight" />
 
 <br/>
 
